@@ -1,0 +1,15 @@
+name: ml
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pandas
+  - matplotlib
+  - numpy
+  - seaborn
+  - scikit-learn
+  - ipython
+  - ipykernel
+prefix: C:\Users\James\Miniconda3\envs\ml
